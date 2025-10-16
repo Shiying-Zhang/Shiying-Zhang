@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 你好！
 
-<!--
-**Shiying-Zhang/Shiying-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me | 关于我
 
-Here are some ideas to get you started:
+I'm Shiying Zhang, an undergraduate student in Computer Science at Tongji University. My research interests include **Efficient AI**, **Computer Vision**, and **Human-Computer Interaction**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests | 研究方向
+- Efficient Deep Learning & Model Compression
+- Computer Vision & Image Processing  
+- Human-Computer Interaction & UX Design
+- Machine Learning Systems
+
+## 📚 Education | 教育背景
+- **B.E. in Computer Science** - Tongji University (2023-Now)
+- Relevant Coursework: Machine Learning, Computer Vision, Data Structures, Algorithms
+
+## 🛠️ Technical Skills | 技术栈
+- **Programming:** Python, Java, C++
+- **Frameworks:** PyTorch, TensorFlow, OpenCV
+- **Tools:** Git, Linux, Docker
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiying-Zhang&show_icons=true&theme=default)
+
+## 📫 Connect with Me | 联系我
+- 🏫 University: Tongji University
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shiying-Zhang&color=blue)
